@@ -1,0 +1,137 @@
+.head_box .head_left{
+	*padding-top: 2px;
+	*height: 14px;
+	*overflow: hidden;
+}
+.head_box .head_down{
+	*overflow: hidden;
+	*zoom: 1;
+	*margin-top: 0;
+}
+
+.head_box .head_left{
+	*padding-top: 2px;
+	*height: 14px;
+	*overflow: hidden;
+}
+.head_right .head_down{
+	*margin-top:5px;
+}
+.se_box{
+	*display: inline;
+}
+.se_box .search{
+	*line-height: 32px;
+}
+
+.logo_content .nav_head{
+	*overflow: hidden;
+	*display: inline;
+	*zoom: 1;
+}
+.logo_content .sho_cart{
+	*display: inline;
+}
+.nav_list a{
+	*display: inline;
+	*zoom: 1;
+	*overflow:hidden;
+}
+.nav_box .nav_list{
+	*overflow: hidden;
+	*vertical-align: top;
+}
+
+.content_new .new_dl{
+	*width: 232px;
+	*vertical-align: top;
+	*overflow: hidden;
+}
+.new_life .new_list{
+	*display: inline;
+	*zoom: 1;
+	*overflow:hidden;
+}
+.love_head s{
+	*height: 14px;
+	*background-position: -76px -97px;
+}
+.love_ul .love_list{
+	*display: inline;
+	*zoom: 1;
+	*overflow: hidden;
+}
+.love_list .love_pic{
+	*display: inline;
+	*zoom: 1;
+	*overflow: hidden;
+}
+.love_list .love_text{
+	*cursor: pointer;
+}
+.fp_1 a{
+	*display:block;
+	*zoom: 1;
+	*background-color:#fff;
+	*filter: alpha(opacity=0);
+}
+.fp_2 a{
+	*display:block;
+	*zoom: 1;
+	*background-color:#fff;
+	*filter: alpha(opacity=0);
+}
+.floor_1 .floor_1_head{
+	*overflow: hidden;
+}
+.nav_1 a:hover{
+	*overflow: hidden;
+}
+.nav_1 a{
+	*border-color:tomato;
+	*filter: chroma(color=tomato);
+}
+.floor_2 .floor_2_head{
+	*overflow: hidden;
+}
+.nav_2 a:hover{
+	*overflow: hidden;
+}
+.nav_2 a{
+	*border-color:tomato;
+	*filter: chroma(color=tomato);
+}
+.content_1_bt .content_1_bg{
+	*filter: alpha(opacity=50);
+}
+.content_1_div2 .li_1{
+	*display: inline;
+}
+.content_2_div2 .li_2{
+	*display: inline;
+}
+.content_1_1bt .content_1_1bg{
+	*filter: alpha(opacity=50);
+}
+.content_1_div2_2_top .div2_2_top_list2{
+	*display: inline;
+}
+.content_1_div2_2_top .div2_2_top_list{
+	*display: inline;
+}
+.content_1_bt .content_1_bg2{
+	*filter: alpha(opacity=50);
+}
+/*网页脚步样式*/
+.web_foot .text_1{
+	*display: inline;
+	*zoom: 1;
+}
+.text_1 s{
+	*display: inline;
+	*zoom: 1;
+}
+.text_1 a{
+	*display: inline;
+	*zoom: 1;
+}

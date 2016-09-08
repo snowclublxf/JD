@@ -1,0 +1,24 @@
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.color1{
+	color: #f15959;
+}
+
+.icon{
+	width: 0.275rem;
+	height: 0.475rem;
+	background: url(../img/bg5.jpg) no-repeat;
+	background-size: 100%;
+}
